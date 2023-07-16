@@ -1,0 +1,1 @@
+// javaScript is a scripting language. javascript is client side language. official name for javaScript is ECMAScript.
